@@ -1,5 +1,5 @@
 print("Hello World!")
-x = input("Enter your name: ")
+x = input("Enter any number: ")
 if x==0:
     print("Zero is entererd")
 else:
